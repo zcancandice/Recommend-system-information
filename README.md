@@ -1,5 +1,5 @@
 # Recommend-system-information
-推荐系统实现资料
+推荐系统入门参考资料
 
 # 比赛(数据)
 
